@@ -1,0 +1,5 @@
+Palindrome numbers: 4
+Prime numbers: 4
+5
+7
+11
